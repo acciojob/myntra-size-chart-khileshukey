@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+}
+#row1{
+      background-color: rgb(165, 34, 34);
+    color: white;
+}
+#row2{
+    background-color: rgb(209, 126, 126);
+    color: white;
+}
+#row3{
+    background-color: rgb(199, 209, 190);
+    color: rgb(0, 0, 0);
+}
+#row4{
+    background-color: rgb(148, 163, 145);
+    color: rgb(16, 16, 16);
+}
